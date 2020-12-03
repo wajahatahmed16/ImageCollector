@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184762474027",
+    "firebase_url": "https://campusmonitoringsystem.firebaseio.com",
+    "project_id": "campusmonitoringsystem",
+    "storage_bucket": "campusmonitoringsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184762474027:android:89fd74c650680c04b7146e",
+        "android_client_info": {
+          "package_name": "com.campusmonitoringsystem.imagecollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184762474027-bopabei6qn1d9c8gsi8gtgbae08b798r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YRJnqvRcSbv_z_nHeYAIbDzkL_NHHSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184762474027-bopabei6qn1d9c8gsi8gtgbae08b798r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
